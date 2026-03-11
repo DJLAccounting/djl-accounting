@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>DJL Accounting</title>
+
+<style>
+
+body{
+font-family:-apple-system,BlinkMacSystemFont;
+text-align:center;
+margin-top:120px;
+background:#f7f7f7;
+}
+
+h1{
+font-size:48px;
+}
+
+p{
+font-size:20px;
+color:#555;
+}
+
+button{
+font-size:20px;
+padding:15px 35px;
+margin-top:30px;
+border-radius:8px;
+border:none;
+background:#007AFF;
+color:white;
+cursor:pointer;
+}
+
+button:hover{
+background:#005fcc;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>DJL Accounting</h1>
+
+<p>Simple Accounting Software for macOS</p >
+
+<p>Lightweight desktop accounting for small businesses and freelancers.</p >
+
+<a href=" ">
+<button>Download for macOS</button>
+</a >
+
+</body>
+
+</html>
